@@ -1,0 +1,7 @@
+{
+  "name": "Preshot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
